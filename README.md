@@ -5,7 +5,7 @@ This code is released under a [MIT License](LICENSE.md).
 
 ## Installation & running instructions
 
- * A recent version of [SBT](https://www.scala-sbt.org/) is required.
+ * A recent version of [SBT](https://www.scala-sbt.org/) and the Java Development Kit is required (this implementation has been tested with SBT 1.3.3 and OpenJDK 11.0.2).
  * Run `sbt`
  * To run the application from sbt, simply type `run` at the prompt after starting sbt.
  * To run as a standalone executable jar:
